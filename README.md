@@ -8,12 +8,6 @@
 
 <p align="center">**¡Bienvenido/a a mi proyecto individual de Data Analytics!**</p>
 
-<p align='center'>
-<img src=""  height=300>
-</p>
-
-## **Descripción del problema - contexto y rol a desarrollar**
-
 ### **Contexto**
 
 Los accidentes aéreos son eventos inesperados e indeseados que involucran aeronaves y provocan daños físicos a personas o a las propias aeronaves. Un accidente aéreo puede involucrar cualquier tipo de aeronave, incluyendo aviones comerciales, aviones privados, helicópteros, planeadores y globos aerostáticos.
