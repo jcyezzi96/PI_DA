@@ -6,7 +6,7 @@
 
 ## <h2 align=center>**`Introducción y descripción del Proyecto`**</h2>
 
-**¡Bienvenido/a a mi proyecto individual de Data Analytics!**
+<p align="center">**¡Bienvenido/a a mi proyecto individual de Data Analytics!**</p>
 
 <p align='center'>
 <img src=""  height=300>
@@ -40,8 +40,6 @@ Para preparar los datos para nuestro análisis, llevé a cabo un proceso de Extr
     </ul>
     <li><strong>Carga (Load)</strong>: Una vez finalizada la fase de transformación, volví a guardar el dataframe resultante en un archivo .csv. Esta versión mejorada del conjunto de datos está lista para ser utilizada en nuestro análisis y en la creación del dashboard interactivo.</li>
 </ol>
-
-El proceso de ETL es fundamental para asegurarnos de que los datos estén limpios, estructurados y listos para ser explorados. Las transformaciones realizadas nos permitirán obtener insights valiosos en el próximo paso de nuestro proyecto.
 
 #### `EDA` (Exploratory Data Analysis)
 
