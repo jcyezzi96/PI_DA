@@ -4,9 +4,7 @@
 <img src=""  height=300>
 </p>
 
-## <h2 align=center>**`Introducción y descripción del Proyecto`**</h2>
-
-<p align="center">**¡Bienvenido/a a mi proyecto individual de Data Analytics!**</p>
+## <h2 align=center>**¡Bienvenido/a a mi proyecto individual de Data Analytics!**</h2>
 
 ### **Contexto**
 
