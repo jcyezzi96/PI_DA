@@ -1,7 +1,7 @@
 # <h1 align=center> **PROYECTO INDIVIDUAL** </h1>
 # <h1 align=center>**`Data Analytics`**</h1>
 <p align="center">
-<img src=""  height=300>
+<img src="_src/Data-and-Analytics.jpg"  height=300>
 </p>
 
 ## <h2 align=center>**¡Bienvenido/a a mi proyecto individual de Data Analytics!**</h2>
